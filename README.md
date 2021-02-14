@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm a React Developer since 2017 and forever will be.
+
+- I’m currently working on my online portfolio
+- 🌱 I’m currently learning
+  - Redux
+- 📫 How to reach me:
+  - [Email](mailto:dyenereks@gmail.com)
+  - [Facebook](https://www.facebook.com/dyenereks/)
+  - [LinedIn](https://www.linkedin.com/in/jenerey/)
+
 <!--
 **dyenereks/dyenereks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
